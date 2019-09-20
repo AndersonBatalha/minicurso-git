@@ -1,0 +1,3 @@
+Anderson Pontes Batalha
+
+O programa é um sorteio de um determinado prêmio. O usuário insere seus dados (nome, cpf, endereço, etc.) e recebe um número aleatório. O usuário poderá ver a relação de participantes e alterar seus dados, se desejar.

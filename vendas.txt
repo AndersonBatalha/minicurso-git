@@ -1,0 +1,5 @@
+João;25.00;Florianópolis
+José;5.00;Joinville
+Manoel;3.50;Jaragua do Sul
+Joaquim;28.00;Sao Bento do Sul
+Vasco;23.00;Araquari
