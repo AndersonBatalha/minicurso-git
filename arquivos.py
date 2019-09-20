@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Arquivos
+
+print("""
+=============================================================
+Python - Acesso a arquivos
+=============================================================
+""")
+
 arq = open("arquivo.txt", "w")
 for i in range(1, 101):
 	arq.write("%da Linha\n" % i)
